@@ -1,0 +1,22 @@
+O texto trata sobre a definição e o gerenciamento do processo de software. Um processo de software é um conjunto de 
+atividades e tarefas que transformam produtos de trabalho de entrada 
+em produtos de trabalho de saída, incluindo critérios de entrada e saída, tarefas e subprocessos
+. A definição completa de um processo de software pode incluir funções e competências, 
+suporte de TI, técnicas e ferramentas de engenharia de software e ambiente de trabalho necessário. Não existe um 
+processo ideal ou conjunto de processos, e os processos devem ser selecionados, adaptados e aplicados conforme 
+apropriado para cada projeto e contexto organizacional. O gerenciamento de processos de software 
+tem como objetivos a eficiência e eficácia na realização de processos de software e a introdução de processos novos ou aprimorados, 
+com a expectativa de melhorar a qualidade dos produtos de trabalho resultantes.
+Mudanças em processos podem ter impactos em cascata em toda a organização e muitas vezes levam a mudanças organizacionais.
+
+
+
+
+
+O trecho em questão apresenta informações sobre a definição de processos de software e o gerenciamento desses processos. O processo de software é definido como um
+conjunto de atividades e tarefas inter-relacionadas que transformam produtos de trabalho de entrada em produtos de trabalho de saída. Além disso, são apresentados 
+exemplos de subprocessos que podem compor um processo de software, bem como técnicas para definir esses processos. O gerenciamento de processos de software é apresentado
+como uma forma de alcançar eficiência e eficácia na realização desses processos e na produção de produtos de trabalho de qualidade. Mudanças em processos de software 
+podem ter impactos em cascata em toda a organização, incluindo mudanças organizacionais e em infraestrutura. Por fim, enfatiza-se que não existe um processo ideal ou 
+conjunto de processos para o desenvolvimento de software, sendo importante selecionar, adaptar e aplicar processos de acordo com o contexto e as necessidades de cada 
+projeto e organização.
