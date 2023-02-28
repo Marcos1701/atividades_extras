@@ -1,0 +1,117 @@
+1 . Software Process Definition
+
+This topic is concerned with a definition of software process, software process management, and 
+software process infrastructure.
+As stated above, a software process is a set of 
+interrelated activities and tasks that transform 
+input work products into output work products. 
+At minimum, the description of a software process includes required inputs, transforming work 
+activities, and outputs generated. A software process may also include 
+its entry and exit criteria and decomposition 
+of the work activities into tasks, which are the 
+smallest units of work subject to management 
+accountability. A process input may be a triggering event or the output of another process. Entry 
+criteria should be satisfied before a process can 
+commence. All specified conditions should be 
+satisfied before a process can be successfully 
+concluded, including the acceptance criteria for 
+the output work product or work products.
+A software process may include subprocesses. 
+For example, software requirements validation is 
+a process used to determine whether the requirements will provide an adequate basis for software 
+development; it is a subprocess of the software 
+requirements process. Inputs for requirements validation are typically a software requirements specification and the resources needed to perform validation (personnel, validation tools, sufficient time). 
+The tasks of the requirements validation activity 
+might include requirements reviews, prototyping, 
+and model validation. These tasks involve work 
+assignments for individuals and teams. The output 
+of requirements validation is typically a validated 
+software requirements specification that provides 
+inputs to the software design and software testing processes. Requirements validation and other 
+subprocesses of the software requirements process 
+are often interleaved and iterated in various ways the software requirements process and its subprocesses may be entered and exited multiple times 
+during software development or modification. 
+Complete definition of a software process may 
+also include the roles and competencies, IT support, software engineering techniques and tools, 
+and work environment needed to perform the 
+process, as well as the approaches and measures 
+(Key Performance Indicators) used to determine 
+the efficiency and effectiveness of performing the 
+process.
+In addition, a software process may include 
+interleaved technical, collaborative, and administrative activities.
+Notations for defining software processes 
+include textual lists of constituent activities and 
+tasks described in natural language; data-flow 
+diagrams; state charts; BPMN; IDEF0; Petri nets; 
+and UML activity diagrams. The transforming 
+tasks within a process may be defined as procedures; a procedure may be specified as an ordered 
+set of steps or, alternatively, as a checklist of the 
+work to be accomplished in performing a task.
+It must be emphasized that there is no best software process or set of software processes. Software processes must be selected, adapted, and 
+applied as appropriate for each project and each 
+organizational context. No ideal process, or set of 
+processes, exists. 
+
+
+1.1. Software Process Management
+
+Two objectives of software process management 
+are to realize the efficiency and effectiveness that
+result from a systematic approach to accomplishing software processes and producing work products—be it at the individual, project, or organizational level—and to introduce new or improved 
+processes.
+Processes are changed with the expectation that 
+a new or modified process will improve the efficiency and/or effectiveness of the process and the 
+quality of the resulting work products. Changing 
+to a new process, improving an existing process, 
+organizational change, and infrastructure change 
+(technology insertion or changes in tools) are 
+closely related, as all are usually initiated with the 
+goal of improving the cost, development schedule, or quality of the software products. Process 
+change has impacts not only for the software 
+product; they often lead to organizational change. 
+Changing a process or introducing a new process 
+can have ripple effects throughout an organization. For example, changes in IT infrastructure tools and technology often require process 
+changes.
+Existing processes may be modified when 
+other new processes are deployed for the first 
+time (for example, introducing an inspection 
+activity within a software development project 
+will likely impact the software testing process—
+see Reviews and Audits in the Software Quality 
+KA and in the Software Testing KA). These situations can also be termed “process evolution.” 
+If the modifications are extensive, then changes 
+in the organizational culture and business model 
+will likely be necessary to accommodate the process changes
+
+1.2. Software Process Infrastructure
+
+Establishing, implementing, and managing software processes and software life cycle models 
+often occurs at the level of individual software 
+projects. However, systematic application of 
+software processes and software life cycle models across an organization can provide benefits 
+to all software work within the organization, 
+although it requires commitment at the organizational level. A software process infrastructure 
+can provide process definitions, policies for interpreting and applying the processes, and descriptions of the procedures to be used to implement 
+the processes. Additionally, a software process 
+infrastructure may provide funding, tools, training, and staff members who have been assigned 
+responsibilities for establishing and maintaining 
+the software process infrastructure.
+Software process infrastructure varies, depending on the size and complexity of the organization 
+and the projects undertaken within the organization. Small, simple organizations and projects 
+have small, simple infrastructure needs. Large, 
+complex organizations and projects, by necessity, have larger and more complex software 
+process infrastructures. In the latter case, various 
+organizational units may be established (such as 
+a software engineering process group or a steering committee) to oversee implementation and 
+improvement of the software processes.
+A common misperception is that establishing a 
+software process infrastructure and implementing 
+repeatable software processes will add time and 
+cost to software development and maintenance. 
+There is a cost associated with introducing or 
+improving a software process; however, experience has shown that implementing systematic 
+improvement of software processes tends to result 
+in lower cost through improved efficiency, avoidance of rework, and more reliable and affordable 
+software. Process performance thus influences 
+software product quality
