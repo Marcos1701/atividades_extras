@@ -1,3 +1,7 @@
+Processos de software são conjuntos de atividades e tarefas inter-relacionadas que transformam produtos de trabalho de entrada em produtos de trabalho de saída. A definição completa de um processo de software inclui entradas, atividades de trabalho transformadoras, saídas, critérios de entrada e saída, decomposição das atividades de trabalho em tarefas, funções e competências, suporte de TI, técnicas e ferramentas de engenharia de software e ambiente de trabalho necessário para executar o processo, abordagens e medidas usadas para determinar a eficiência e a eficácia da execução do processo. Os processos de software podem incluir atividades técnicas, colaborativas e administrativas intercaladas. O gerenciamento de processos de software tem como objetivo perceber a eficiência e a eficácia que resultam de uma abordagem sistemática para realizar processos de software e produzir produtos de trabalho e introduzir processos novos ou aprimorados. A mudança de processo tem impactos não apenas para o produto de software, mas também em toda a organização. Não existe um processo ideal ou conjunto de processos. Os processos de software devem ser selecionados, adaptados e aplicados conforme apropriado para cada projeto e contexto organizacional.
+
+
+
 O texto trata sobre a definição e o gerenciamento do processo de software. Um processo de software é um conjunto de 
 atividades e tarefas que transformam produtos de trabalho de entrada 
 em produtos de trabalho de saída, incluindo critérios de entrada e saída, tarefas e subprocessos
