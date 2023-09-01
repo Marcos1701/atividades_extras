@@ -1,0 +1,43 @@
+@startuml So Alegria
+
+skinparam backgroundColor #EEEBDC
+skinparam handwritten true
+
+skinparam sequence {
+ArrowColor DeepSkyBlue
+ActorBorderColor DeepSkyBlue
+LifeLineBorderColor blue
+LifeLineBackgroundColor #A9DCDF
+
+ParticipantBorderColor DeepSkyBlue
+ParticipantBackgroundColor DodgerBlue
+ParticipantFontName Impact
+ParticipantFontSize 17
+ParticipantFontColor #A9DCDF
+
+ActorBackgroundColor aqua
+ActorFontColor DeepSkyBlue
+ActorFontSize 17
+ActorFontName Aapex
+}
+
+title Alterar Ponto
+
+actor Funcionario
+participant "Sistema" as A
+actor Repositorio
+
+Funcionario -> A: AlteraPonto()
+activate A
+Funcionario <-- A: ExibirPontos()
+Funcionario -> A: SelecionaPonto(pontoSelecionado)
+Funcionario <-- A: hora de início, hora de término, data, número do projeto
+Funcionario -> A: AlteraDados(hora de início, hora de término, data, número do projeto)
+Funcionario <-- A: hora de início, hora de término, data, número do projeto
+A <- Funcionario: ConfirmaAlteracaoPonto()
+actor Repositorio
+A -> Repositorio: AlteraPonto(PontoAlterado)
+A --> Funcionario: MsgSucesso() -> "Só alegria"
+
+deactivate A
+@enduml
