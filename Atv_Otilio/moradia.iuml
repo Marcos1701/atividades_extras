@@ -1,0 +1,74 @@
+@startuml Moradia
+
+together {
+  class Acabamento {
+    +tipo: string
+    +cor: string
+  }
+
+  class Parede {
+    +altura: number
+    +largura: number
+    +acabamento: Acabamento
+  }
+}
+
+together {
+  class TipoTelha {
+    +material: string
+  }
+
+  class Telhado {
+    +tipoTelha: TipoTelha
+    +area: number
+  }
+}
+ 
+together {
+  class TipoVidro {
+    +material: string
+  }
+
+  class Espelho {
+    +tipoVidro: TipoVidro
+    +altura: number
+    +largura: number
+  }
+}
+
+together {
+  class Endereco {
+    +rua: string
+    +numero: number
+  }
+
+  class Moradia {
+    +area: number
+    +endereco: Endereco
+  }
+
+  class Casa extends Moradia {
+    +telhadoAreaExterna: Telhado
+    +telhadoAreaInterna: Telhado
+    +paredeQuarto: Parede
+    +paredeBanheiro: Parede
+    +paredeCozinha: Parede
+    +espelhoCorredor: Espelho
+  }
+}
+
+Acabamento -- Parede
+TipoTelha -- Telhado
+TipoVidro -u- Espelho
+Endereco -- Moradia
+
+Parede -r-* Casa : ParedeQuarto
+Parede -r-* Casa : ParedeBanheira
+Parede -r-* Casa : ParedeCozinha
+
+Telhado -l-* Casa : TelhadoAreaExterna
+Telhado -l-* Casa : TelhadoAreaInterna
+
+Espelho -u-o Casa : EspelhoCorredor
+
+@enduml
