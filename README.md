@@ -15,3 +15,5 @@
 .. http://www.inf.ufsc.br/~j.barreto/cca/tratexto/latex.htm
 
 Quem não quer ficar colocando o pt-br toda hora na estrutura padrão do html criado pelo snippet pode configurar uma variável de ambiente indo em Arquivo > Preferências > Configurações, depois pesquisa por "variáveis emmet" e depois clica em adicionar item e cria a variável lang e o valor coloca pt-br. Aí todas as vezes que pressionar o ! + Enter ele já vai criar o código padrão com o parâmetro lang="pt-br"
+
+https://cursos.alura.com.br/forum/topico-e-possivel-remover-um-commit-38296
