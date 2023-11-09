@@ -30,7 +30,7 @@ Divisão:
 - bridge
 
 
-<a href="https://gamma.app/public/Padroes-de-Projeto-Estruturais-fc07onhq92a73w8">Slides Analise e Projeto de Sistemas </a>
+<a href="https://gamma.app/docs/Padroes-de-Projeto-Estruturais-fc07onhq92a73w8">Slides Analise e Projeto de Sistemas </a>
 
 
 <a href="https://drive.google.com/drive/folders/1HT1MUJa129kCJQVzYHyPFykrZ15r-a0c?usp=sharing" >Link Projeto Dotnet - Análise e Projeto de Sistemas</a>
