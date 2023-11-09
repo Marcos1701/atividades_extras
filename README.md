@@ -19,4 +19,13 @@ Quem não quer ficar colocando o pt-br toda hora na estrutura padrão do html cr
 https://cursos.alura.com.br/forum/topico-e-possivel-remover-um-commit-38296
 
 
+
+Divisão:
+- o que são padrões de projeto
+- livro "Design Patterns: Elements of Reusable Object-Oriented Software" e a Gang of Four
+- padrão estrutural e interfaces
+- adapter
+- facade
+- composite
+- bridge
 <a href="https://drive.google.com/drive/folders/1HT1MUJa129kCJQVzYHyPFykrZ15r-a0c?usp=sharing" >Link Projeto Dotnet - Análise e Projeto de Sistemas</a>
