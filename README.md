@@ -35,3 +35,7 @@ Divisão:
 
 <a href="https://drive.google.com/drive/folders/1HT1MUJa129kCJQVzYHyPFykrZ15r-a0c?usp=sharing" >Link Projeto Dotnet - Análise e Projeto de Sistemas</a>
 <a href="https://gamma.app/gqa3bn3a7am08gu/join?code=1zldymi6xo3jwnp&r=u8ti4c65el6o5l3"> Gamma</a>
+
+
+https://lermanga.org/capitulos/solo-leveling-capitulo-39/
+//solo leveling -> cap 39
