@@ -39,4 +39,4 @@ Divisão:
 
 
 //solo leveling -> cap 39
-https://lermanga.org/capitulos/solo-leveling-capitulo-47/
+https://lermanga.org/capitulos/solo-leveling-capitulo-143-pt-br/
